@@ -10,9 +10,10 @@ TCP_crypted_chat
 - more than 2 brain cells
 
 ## Installation
-
-`git clone https://github.com/herawo/TCP_crypted_chat`
-`cd TCP_crypted_chat`
-`virtualenv venv`
-`source venv/bin/activate`
-`pip install requirements.txt`
+```
+git clone https://github.com/herawo/TCP_crypted_chat
+cd TCP_crypted_chat
+virtualenv venv
+source venv/bin/activate
+pip install requirements.txt
+```
